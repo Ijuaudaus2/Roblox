@@ -8,7 +8,8 @@
 
 ### Showcase
 
- 
+ ![image](https://github.com/Ijuaudaus2/Roblox/assets/166639402/8b983851-9f23-4479-8e52-65872b6aa354)
+
 ### How It Works:
 Download and Install: 
 Get the Setup from this repository and follow the installation instructions. 
